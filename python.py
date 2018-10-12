@@ -1,5 +1,5 @@
 MOD = 10**9 + 7
-
+#class initiation
 class SegTree:
     
     def __init__(self, n):
